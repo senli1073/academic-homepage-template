@@ -1,13 +1,13 @@
-- National Scholarship of Graduate Student, 2024.
+- <strong> Nomination for Outstanding Papers in XNAI, 2025<strong> XNAI, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- Third-prize Scholarship of XNAI, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- Outstanding graduate of SDUFE, 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+- Second-prize Scholarship of SDUFE, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Sports Scholarship of SDUFE, 2021.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- Second-prize Scholarship of SDUFE, 2021.
 
-- First-prize Scholarship of CUMT, 2019.
+- Second-prize Scholarship of SDUFE, 2020.
