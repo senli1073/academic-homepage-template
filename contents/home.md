@@ -1,5 +1,5 @@
 
-[![senli1073](https://img.shields.io/badge/ZhichengTong-github-blue?logo=github)](https://github.com/ZhichengTong)
+[![Zhicheng Tong](https://img.shields.io/badge/Zhicheng Tong-ResearchGate-blue?logo=github)](https://www.researchgate.net/Zhicheng-Tong)
 
 
 He obtained his Ph.D. in Applied Mathematics from Jilin University in 2025 under the supervision of Prof. Yong Li. He is currently a postdoctoral researcher (Assistant Researcher) at the same university. His research interests center on dynamical systems, including weighted ergodic theory, KAM theory, and linearization theory.
