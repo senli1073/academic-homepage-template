@@ -1,8 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+BI Xia is a fourth-year PhD candidate at the [Public Design Lab](https://www.polyu.edu.hk/en/sd/research/research-centres-and-labs/public-design-lab/), [School of Design](https://www.polyu.edu.hk/sd/) at [The Hong Kong Polytechnic University] (https://www.polyu.edu.hk/en/).
 
 #### Contact
 
